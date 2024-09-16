@@ -1,0 +1,9 @@
+.nav{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5856bc666a49634cd55b0ba9/1621355629884-7OAV8EESGKAZRT86U6XI/best-restaurants-london-ontario-.jpeg?format=1500w");
+
+    position:sticky;
+
+}
+.btn:hover{
+    transform:translateY(10px);
+}
